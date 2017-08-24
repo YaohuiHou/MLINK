@@ -9,6 +9,10 @@ m站通过按钮打开APP当前页
 -  跳转APP按钮必须是a标签，且必须加 class="*app_open_mlink*" 
 -  页面body中调用js文件： <script src="https://s.kcimg.cn/public/mlink.1.0.0.min.js"></script>
 
+## 1.0.1
+-  页面后加载标签获取
+-  页面body中调用js文件： <script src="https://s.kcimg.cn/public/mlink.1.0.1.min.js"></script>
+
 ### 初始化
 
 ```
